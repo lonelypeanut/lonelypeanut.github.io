@@ -2,6 +2,7 @@ baseURL = "http://aliciahickey.com/"
 languageCode = "en-us"
 title = "Alicia Hickey's website"
 theme = "aerial"
+publishDir = "."
 
 [params]
   name = "Alicia Hickey"
