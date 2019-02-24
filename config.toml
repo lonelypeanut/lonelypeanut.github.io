@@ -10,7 +10,6 @@ publishDir = "."
   copyright = "2019 Alicia Hickey"
   #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
   bg_scroll = "wewe"
-  favicon = "favicon.ico"
 
 [[params.social]]
   medium = "Twitter"
